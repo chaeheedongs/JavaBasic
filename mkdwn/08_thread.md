@@ -1,8 +1,8 @@
 # 쓰레드
 
-## 목차
+<br/><br/><br/>
 
----
+## 목차
 
 - Thread 클래스와 Runnable 인터페이스
 - Runnable 예제
