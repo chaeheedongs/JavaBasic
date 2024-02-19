@@ -22,5 +22,6 @@
 - [I/O](https://github.com/chaeheedongs/JavaBasic/blob/master/mkdwn/11_iostream.md)
 - 제네릭
 - 람다식
+- [Memory](https://github.com/chaeheedongs/JavaBasic/blob/master/mkdwn/12_jvm_memory.md)
 
 ---
