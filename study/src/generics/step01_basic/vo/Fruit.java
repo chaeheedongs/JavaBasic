@@ -1,4 +1,4 @@
-package generics.basic.vo;
+package generics.step01_basic.vo;
 
 public class Fruit<T> {
 

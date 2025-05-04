@@ -1,4 +1,4 @@
-package generics.typelimits.vo;
+package generics.step02_typelimits.vo;
 
 import java.util.ArrayList;
 import java.util.List;

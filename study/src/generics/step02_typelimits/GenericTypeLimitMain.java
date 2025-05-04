@@ -1,6 +1,6 @@
-package generics.typelimits;
+package generics.step02_typelimits;
 
-import generics.typelimits.vo.*;
+import generics.step02_typelimits.vo.*;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package generics.basic;
+package generics.step01_basic;
 
-import generics.basic.vo.Fruit;
+import generics.step01_basic.vo.Fruit;
 
 public class GenericBasicMain {
 
