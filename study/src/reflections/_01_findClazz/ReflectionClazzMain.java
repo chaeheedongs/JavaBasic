@@ -1,6 +1,8 @@
-package reflections;
+package reflections._01_findClazz;
 
-public class ReflectionMain {
+import reflections.User;
+
+public class ReflectionClazzMain {
 
     public static void main(String[] args) {
         /* reflection 조회 방식 1 */

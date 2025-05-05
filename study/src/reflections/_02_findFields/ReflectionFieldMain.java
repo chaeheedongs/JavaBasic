@@ -1,4 +1,6 @@
-package reflections;
+package reflections._02_findFields;
+
+import reflections.User;
 
 import java.lang.reflect.Field;
 
